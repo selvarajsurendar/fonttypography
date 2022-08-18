@@ -1,0 +1,90 @@
+{
+  "global": {
+    "dj": {
+      "typography": {
+        "headline": {
+          "fontSize": {
+            "xl": {
+              "16col": {
+                "value": "40",
+                "type": "fontSizes"
+              },
+              "12col": {
+                "value": "36",
+                "type": "fontSizes"
+              },
+              "08col": {
+                "value": "28",
+                "type": "fontSizes"
+              },
+              "04col": {
+                "value": "22",
+                "type": "fontSizes"
+              }
+            },
+            "l": {
+              "16col": {
+                "value": "33px",
+                "type": "fontSizes"
+              },
+              "12col": {
+                "value": "32",
+                "type": "fontSizes"
+              },
+              "08col": {
+                "value": "22px",
+                "type": "fontSizes"
+              },
+              "04col": {
+                "value": "22px",
+                "type": "fontSizes"
+              }
+            },
+            "m": {
+              "16col": {
+                "value": "33px",
+                "type": "fontSizes"
+              },
+              "12col": {
+                "value": "32",
+                "type": "fontSizes"
+              },
+              "08col": {
+                "value": "22px",
+                "type": "fontSizes"
+              },
+              "04col": {
+                "value": "22px",
+                "type": "fontSizes"
+              }
+            },
+            "s": {
+              "16col": {
+                "value": "22px",
+                "type": "fontSizes"
+              },
+              "12col": {
+                "value": "22px",
+                "type": "fontSizes"
+              },
+              "08col": {
+                "value": "18px",
+                "type": "fontSizes"
+              },
+              "04col": {
+                "value": "16px",
+                "type": "fontSizes"
+              }
+            }
+          }
+        }
+      }
+    },
+    "font": {
+      "rem": {
+        "value": "1rem",
+        "type": "other"
+      }
+    }
+  }
+}

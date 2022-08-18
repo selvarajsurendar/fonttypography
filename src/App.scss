@@ -1,0 +1,24 @@
+@import "./_variables.scss";
+
+@media screen and (max-width: 768px)  {
+    h1 {
+        font-size: $global-dj-typography-headline-font-size-m-16col;
+    }
+}
+@media screen and (max-width: 1280px)  {
+    h1 {
+        font-size: $global-dj-typography-headline-font-size-l-16col;
+    }
+}
+@media screen and (max-width: 375px)  {
+    h1 {
+        font-size: $global-dj-typography-headline-font-size-s-16col;
+    }
+}
+.App {
+    text-align: center;
+  }
+h1 {
+    font-size: $global-dj-typography-headline-font-size-xl-16col;
+    display:inline-block;
+}
